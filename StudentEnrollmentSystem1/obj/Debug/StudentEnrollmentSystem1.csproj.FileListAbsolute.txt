@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\bin\Debug\StudentEnrollmentSystem1.exe.config
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\bin\Debug\StudentEnrollmentSystem1.exe
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\bin\Debug\StudentEnrollmentSystem1.pdb
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\obj\Debug\StudentEnrollmentSystem1.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\obj\Debug\StudentEnrollmentSystem1.FormStudentInfo.resources
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\obj\Debug\StudentEnrollmentSystem1.Properties.Resources.resources
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\obj\Debug\StudentEnrollmentSystem1.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\obj\Debug\StudentEnrollmentSystem1.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\obj\Debug\StudentEnrollmentSystem1.exe
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\obj\Debug\StudentEnrollmentSystem1.pdb
+C:\Users\acer\source\repos\StudentEnrollmentSystem1\StudentEnrollmentSystem1\obj\Debug\StudentEnrollmentSystem1.FormStudent.resources
